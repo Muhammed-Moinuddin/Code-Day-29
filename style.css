@@ -1,0 +1,46 @@
+img.one{
+    float: right;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+p.one{
+    border: 2px solid blue;
+    padding: 10px;
+}
+div{
+    padding: 20px;
+    float: left;
+}
+.div1{
+    border: 2px solid;
+    background-color: chartreuse;
+}
+.div2{
+    border: 2px solid;
+    background-color: red;
+}
+.div3{
+    border: 2px solid;
+    background-color: yellow;
+}
+.divone{
+    float: left;
+    padding: 10px;
+    border: 2px solid rgb(9, 225, 253);
+}
+.divtwo{
+    padding: 10px;
+    border: 2px solid purple;
+}
+.divthree{
+    float: left;
+    padding: 10px;
+    border: 2px solid rgb(9, 225, 253);
+}
+.divfour{
+    padding: 10px;
+    border: 2px solid purple;
+    clear: left;
+}
